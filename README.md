@@ -7,7 +7,6 @@ I'm Sidesh Jungbahadur, a software developer passionate about simple 2D games an
 
 - :chart_with_upwards_trend: I’m currently working on increasing my [LeetCode Rank](https://leetcode.com/caramelmist/) 
 - 🌱 I’m currently working with Cocos Creator
-- 📫 How to reach me: @Sideshj (Twitter)
 - ⚡ Fun fact: Im colorblind!
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=caramelmist&count_private=true&theme=default_repocard&showicons=true&&count_private=true)]()
