@@ -9,6 +9,6 @@ I'm Sidesh Jungbahadur, a software developer passionate about simple 2D games an
 - 🌱 I’m currently working with Cocos Creator
 - ⚡ Fun fact: Im colorblind!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=caramelmist&count_private=true&theme=default_repocard&showicons=true&&count_private=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=caramelmist&count_private=true&theme=default_repocard&showicons=true&&count_private=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caramelmist&langs_count=5&theme=default_repocard&&count_private=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caramelmist&langs_count=5&theme=default_repocard&&count_private=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)]()
